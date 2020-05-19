@@ -1,5 +1,5 @@
 # chess_pawn_push
-Chess game with slight rule adjustments created as a Final Project for a high school computer science course.
+Chess game with slight rule adjustments created as a Final Project for a high school computer science course, using Python 3's Pygame module.
 
 This game plays exactly like chess, except for a few changes:
 - The win condition is to get your pawn to the other side of the board, instead of checkmate
